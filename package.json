@@ -1,0 +1,23 @@
+{
+  "name": "ltsn-search",
+  "version": "1.0.0",
+  "description": "CommandLine Tool for Node LTS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arronliang/ltsn-search.git"
+  },
+  "keywords": [
+    "Node",
+    "LTS"
+  ],
+  "author": "arronliang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arronliang/ltsn-search/issues"
+  },
+  "homepage": "https://github.com/arronliang/ltsn-search#readme"
+}
