@@ -18,4 +18,4 @@ $ ltsn 10
 
 ## LICENSE
 
-(MIT)[https://github.com/arronliang/ltsn-search/blob/main/LICENSE]
+[MIT](https://github.com/arronliang/ltsn-search/blob/main/LICENSE)
