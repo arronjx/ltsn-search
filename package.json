@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "CommandLine Tool for Node LTS",
   "main": "index.js",
+  "bin": {
+    "ltsn": "bin/ltsn"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +18,15 @@
     "LTS"
   ],
   "author": "arronliang",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/arronliang/ltsn-search/issues"
   },
-  "homepage": "https://github.com/arronliang/ltsn-search#readme"
+  "homepage": "https://github.com/arronliang/ltsn-search#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cli-color": "^2.0.0",
+    "cli-table": "^0.3.4",
+    "compare-versions": "^3.6.0"
+  }
 }
